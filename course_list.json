@@ -1,0 +1,63 @@
+{
+    "author": "icharo-tb",
+    "creation_date": "2022-08-11",
+    "update_date": "2022-10-24",
+    "courses":[
+        {
+            "id": 1,
+            "course_name": "Scientific Computing Python",
+            "starting_date": "2022-07",
+            "finishing_date": "unknown",
+            "course_provider": "FreeCodeCamp",
+            "course_web": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+            "course_degree": false,
+            "degree": null,
+            "technologies": ["Python"]
+        },
+        {
+            "id": 2,
+            "course_name": "Introduction to MongoDB",
+            "starting_date": "2022-07",
+            "finishing_date": "2022-07",
+            "course_provider": "Coursera",
+            "course_web": "https://es.coursera.org/learn/introduction-mongodb",
+            "course_degree": false,
+            "degree": null,
+            "technologies": ["MongoDB Compass"]
+        },
+        {
+            "id": 3,
+            "course_name": "CS50 HarvardEDx",
+            "starting_date": "2022-09",
+            "finishing_date": "unknown",
+            "course_provider": "Harvard",
+            "course_web": "https://edx.org/course/introduction-computer-science-harvardx-cs50x",
+            "course_degree": false,
+            "degree": null,
+            "technologies": ["C","Computer Science"]
+        },
+        {
+            "id": 4,
+            "course_name": "Big Data Architectures",
+            "starting_date": "2022-10",
+            "finishing_date": "unknown",
+            "course_provider": "SEPE",
+            "course_web": "https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?metodo=verDetalle&codEspecialidad=IFCT127PO&volver=true&idBusquedaFormacion=&volverUrl=",
+            "course_degree": false,
+            "degree": null,
+            "technologies": ["Hadoop","Hive","Pig","HDFS","Flume","Spark"]
+        },
+        {
+            "id": 5,
+            "course_name": "Hackea tu Futuro - Big Data",
+            "starting_date": "2022-03",
+            "finishing_date": "2022-06",
+            "course_provider": "The Valley",
+            "course_web": "https://www.hackeatufuturo.es/rompelasreglas/bigdata",
+            "course_degree": true,
+            "degree": ["Images/014_L1_F1_MAD001_CER_ACREDITA_001_page-0001.jpg",
+                "Images/014_L1_F1_MAD001_CER_ACREDITA_001_page-0002.jpg"],
+            "technologies": ["Python","Pandas","NumPy","SQL","Tableau","Google Analytics"]
+        }
+    ]
+}
