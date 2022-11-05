@@ -1,5 +1,5 @@
 <div align='center'>
-    <p>Certifications</p>
+    <h1>Certifications</h1>
 </div>
 
 
