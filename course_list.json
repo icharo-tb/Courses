@@ -1,7 +1,7 @@
 {
     "author": "icharo-tb",
     "creation_date": "2022-08-11",
-    "update_date": "2022-10-24",
+    "update_date": "2022-12-12",
     "courses":[
         {
             "id": 1,
@@ -40,12 +40,12 @@
             "id": 4,
             "course_name": "Big Data Architectures",
             "starting_date": "2022-10",
-            "finishing_date": "unknown",
+            "finishing_date": "2022-12",
             "course_provider": "SEPE",
             "course_web": "https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?metodo=verDetalle&codEspecialidad=IFCT127PO&volver=true&idBusquedaFormacion=&volverUrl=",
             "course_degree": false,
             "degree": null,
-            "technologies": ["Hadoop","Hive","Pig","HDFS","Flume","Spark"]
+            "technologies": ["Hadoop","Hive","Pig","HDFS","Flume","Spark","Spark Streaming", "Apache Kafka"]
         },
         {
             "id": 5,
@@ -58,6 +58,17 @@
             "degree": ["Images/014_L1_F1_MAD001_CER_ACREDITA_001_page-0001.jpg",
                 "Images/014_L1_F1_MAD001_CER_ACREDITA_001_page-0002.jpg"],
             "technologies": ["Python","Pandas","NumPy","SQL","Tableau","Google Analytics"]
+        },
+        {
+            "id": 6,
+            "course_name": "Introduction to MongoDB",
+            "starting_date": "2022-12",
+            "finishing_date": "unknown",
+            "course_provider": "MongoDB University",
+            "course_web": "https://learn.mongodb.com/",
+            "course_degree": false,
+            "degree": null,
+            "technologies": ["MongoDB","Mongo Shell","MongoDB Compass"]
         }
     ]
 }
