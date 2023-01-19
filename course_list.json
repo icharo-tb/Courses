@@ -63,7 +63,7 @@
             "id": 6,
             "course_name": "Introduction to MongoDB",
             "starting_date": "2022-12",
-            "finishing_date": "unknown",
+            "finishing_date": "2023-01",
             "course_provider": "MongoDB University",
             "course_web": "https://learn.mongodb.com/",
             "course_degree": false,
