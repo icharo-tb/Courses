@@ -11,5 +11,5 @@
 </p>
 
 <p float="left">
-  <img src="$dani-l-n-a-34923f0c-6669-4ec5-88ab-6d4340cfa932-certificate_page-0001.jpg" width="500" />
+  <img src="Images/dani-l-n-a-34923f0c-6669-4ec5-88ab-6d4340cfa932-certificate_page-0001.jpg" width="500" />
 </p>
