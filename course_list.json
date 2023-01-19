@@ -66,8 +66,8 @@
             "finishing_date": "2023-01",
             "course_provider": "MongoDB University",
             "course_web": "https://learn.mongodb.com/",
-            "course_degree": false,
-            "degree": null,
+            "course_degree": true,
+            "degree": ["Images/dani-l-n-a-34923f0c-6669-4ec5-88ab-6d4340cfa932-certificate_page-0001.jpg"],
             "technologies": ["MongoDB","Mongo Shell","MongoDB Compass"]
         }
     ]
